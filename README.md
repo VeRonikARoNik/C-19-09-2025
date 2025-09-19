@@ -4,8 +4,9 @@ Arkusz INF.04 : 2024 - styczeń - zad. 01
 https://egzamin-programista.pl/arkusz-praktyczny-inf04-2024-01-01
 
 Zrealizuj na podstawie tych obrazów aplikacje 
-Okno ma tło koloru CadetBlue (#5F9EA0)
-Pola edycyjne i przycisk mają tło koloru Azure (#F0FFFF)
+*Okno ma tło koloru CadetBlue (#5F9EA0)*
+*Pola edycyjne i przycisk mają tło koloru Azure (#F0FFFF)*
+*Dwa obrazy: 000-zdjecie.jpg oraz 000-odcisk.jpg. Obrazy mają tę samą wysokość. W aplikacji, której okno przedstawiono na obrazie 1 zastosowano wysokość równą 180*
 
 <img width="903" height="396" alt="image" src="https://github.com/user-attachments/assets/294bcb89-ed1a-4805-92e2-eb4271ac2867" />
 
