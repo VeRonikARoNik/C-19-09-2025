@@ -84,7 +84,7 @@ Zrealizuj na podstawie tych obrazów aplikacje
 
 *Program powinien być zapisany czytelnie, z zachowaniem zasad czystego formatowania kodu, należy stosować nazwy zmiennych znaczące oraz zgodne z przedstawionym algorytmem*
 
-*Do kodu należy dołączyć dokumentację, która została opisana w części III zadania egzaminacyjnego*
+**Do kodu należy dołączyć dokumentację, która została opisana w części III zadania egzaminacyjnego**
 
 *Kod aplikacji przygotuj do nagrania na płytę. W folderze konsola zapisz archiwum całego projektu o nazwie konsola.zip, plik z kodem źródłowym programu oraz plik uruchomieniowy, jeżeli istnieje.*
 
