@@ -75,11 +75,17 @@ Zrealizuj na podstawie tych obrazów aplikacje
 *Wczytanie z klawiatury numeru PESEL*
 
 *Wypisanie płci (ustalonej przez funkcję) w postaci napisu: „Kobieta” lub „Mężczyzna” w oparciu o wczytany numer PESEL*
+
 *Wypisanie informacji o zgodności lub niezgodności sumy kontrolnej w oparciu o wczytany numer PESEL*
+
 *Program powinien podejmować zrozumiałą komunikację z użytkownikiem*
+
 *W programie może być zastosowane angielskie lub polskie nazewnictwo zmiennych i funkcji*
+
 *Program powinien być zapisany czytelnie, z zachowaniem zasad czystego formatowania kodu, należy stosować nazwy zmiennych znaczące oraz zgodne z przedstawionym algorytmem*
+
 *Do kodu należy dołączyć dokumentację, która została opisana w części III zadania egzaminacyjnego*
+
 *Kod aplikacji przygotuj do nagrania na płytę. W folderze konsola zapisz archiwum całego projektu o nazwie konsola.zip, plik z kodem źródłowym programu oraz plik uruchomieniowy, jeżeli istnieje.*
 
 
