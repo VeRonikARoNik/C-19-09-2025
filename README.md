@@ -14,4 +14,41 @@ Zrealizuj na podstawie tych obrazów aplikacje
 
 <img width="801" height="339" alt="image" src="https://github.com/user-attachments/assets/6510cf2f-d28b-49e9-aead-0ed5057c5318" />
 
+<img width="868" height="519" alt="image" src="https://github.com/user-attachments/assets/fe6d3698-dba3-43b2-ad56-306cb2078d56" />
+
+*Po wciśnięciu button program się wykonuje*
+
+```
+ private void button2_Click(object sender, EventArgs e)
+ {
+
+     string firstName = textBox1.Text.Trim();
+     string lastName = textBox2.Text.Trim();
+
+     // Walidacja pól
+     if (string.IsNullOrEmpty(firstName) || string.IsNullOrEmpty(lastName))
+     {
+         MessageBox.Show("Wprowadź dane",
+             "Błąd",
+             MessageBoxButtons.OK,
+             MessageBoxIcon.Warning);
+         return;
+     }
+
+     // Ustalenie koloru oczu
+     string eyeColor = radioButton1.Checked ? "niebieskie"
+                     : radioButton2.Checked ? "zielone"
+                     : "piwne";
+
+     // Wyświetlenie komunikatu końcowego
+     MessageBox.Show(
+         $"{firstName} {lastName} kolor oczu {eyeColor}",
+         "Podsumowanie",
+         MessageBoxButtons.OK,
+         MessageBoxIcon.Information
+     );
+
+```
+
+
 
