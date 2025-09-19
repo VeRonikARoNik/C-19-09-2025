@@ -50,5 +50,25 @@ Zrealizuj na podstawie tych obrazów aplikacje
 
 ```
 
+<img width="884" height="486" alt="image" src="https://github.com/user-attachments/assets/870c47a5-938f-4a07-a6bb-988b69231a9a" />
+
+
+*Założenia aplikacji:*
+
+*Zastosowany obiektowy język programowania zgodny z zainstalowanym na stanowisku egzaminacyjnym: C++ lub C#, lub Java, lub Python
+Numer PESEL może być przechowywany jako zmienna tekstowa albo tablica 11 liczb całkowitych lub znaków
+Zmienna ta jest zainicjowana numerem PESEL zdającego lub w przypadku jego braku numerem 55030101193
+Sprawdzanie płci należy zaimplementować w osobnej funkcji zwracającej typ znakowy o wartości 'K' dla kobiety oraz 'M' dla mężczyzny
+Sprawdzanie sumy kontrolnej należy zaimplementować w osobnej funkcji zwracającej wartość logiczną true w przypadku zgodności sumy lub false w przeciwnym przypadku
+Parametrem wejściowym obu funkcji jest zmienna przechowująca numer PESEL
+Program główny testuje działanie funkcji i zawiera następujące operacje wejścia – wyjścia
+Wczytanie z klawiatury numeru PESEL
+Wypisanie płci (ustalonej przez funkcję) w postaci napisu: „Kobieta” lub „Mężczyzna” w oparciu o wczytany numer PESEL
+Wypisanie informacji o zgodności lub niezgodności sumy kontrolnej w oparciu o wczytany numer PESEL
+Program powinien podejmować zrozumiałą komunikację z użytkownikiem
+W programie może być zastosowane angielskie lub polskie nazewnictwo zmiennych i funkcji
+Program powinien być zapisany czytelnie, z zachowaniem zasad czystego formatowania kodu, należy stosować nazwy zmiennych znaczące oraz zgodne z przedstawionym algorytmem
+Do kodu należy dołączyć dokumentację, która została opisana w części III zadania egzaminacyjnego
+Kod aplikacji przygotuj do nagrania na płytę. W folderze konsola zapisz archiwum całego projektu o nazwie konsola.zip, plik z kodem źródłowym programu oraz plik uruchomieniowy, jeżeli istnieje.*
 
 
